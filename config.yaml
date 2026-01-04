@@ -1,0 +1,26 @@
+rules:
+  Images:
+    - .jpg
+    - .jpeg
+    - .png
+    - .gif
+    - .svg
+  Documents:
+    - .pdf
+    - .docx
+    - .txt
+    - .xlsx
+    - .csv
+  Archives:
+    - .zip
+    - .rar
+    - .tar
+    - .gz
+  Scripts:
+    - .py
+    - .js
+    - .sh
+  Installers:
+    - .exe
+    - .msi
+    - .dmg
